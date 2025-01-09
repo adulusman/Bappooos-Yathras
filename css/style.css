@@ -513,7 +513,7 @@ h1, h2, h3, h4, h5,
         padding: 0px 0;
         margin-top: 20px;
         margin-left: 0px;
-        background: #0bafe;
+        background: #FF5733;
         -webkit-transition: 0.2s 0s;
         -o-transition: 0.2s 0s;
         transition: 0.2s 0s; }
@@ -540,7 +540,7 @@ h1, h2, h3, h4, h5,
           -webkit-transition: 0s all;
           -o-transition: 0s all;
           transition: 0s all;
-          color: #000 !important; }
+          color: #FF5733 !important; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown a.active {
             color: #efba6c !important;
             background: #f8f9fa; }
